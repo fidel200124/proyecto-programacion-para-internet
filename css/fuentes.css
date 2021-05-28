@@ -1,0 +1,9 @@
+@font-face {
+	src:url(alexbrush-regular.ttf);
+	font-family: 'alexbrush-regular';
+	font-size: 36px;
+	text-align: center;
+}
+.alexbrush-regular {font-family: 'alexbrush-regular';}
+.alexbrush-regular {font-size: 36px;}
+.alexbrush-regular {text-align: center;}
