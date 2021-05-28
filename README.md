@@ -1,6 +1,4 @@
-# proyecto-programacion-para-internet
-Es una pagina creada para subir proyectos de nuestra clase 
-  
+
 <! DOCTYPE html >
 < html >
 < cabeza >
@@ -16,3 +14,4 @@ Es una pagina creada para subir proyectos de nuestra clase
 
 </body>
 </html>
+
